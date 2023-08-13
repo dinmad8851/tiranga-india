@@ -12,5 +12,6 @@ module.exports = {
         path: `${__dirname}/tiranga`,
       }
     },
+    "gatsby-plugin-mdx",
   ],
 };
